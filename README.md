@@ -1,6 +1,6 @@
 # About the project
 The excel file of **Financial Modeling** contains a three stage financial modeling of the finanial statements of Square pharmaceuticals limited along the valuation of the stock of the company using various equity valuation method.
-## The excel file contains
+## The Excel file contains
 - Income Statement and forecast
 - Balance Sheet and forecast
 - Cashflow Statement and forecast
