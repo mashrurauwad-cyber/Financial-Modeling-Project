@@ -15,4 +15,4 @@ The excel file of **Financial Modeling** contains a three stage financial modeli
 
 The **Equity Valuation Report** is a professional equity research report of Square pharmaceuticals limited of our team as an independent analyst. The report is are supposed to motivate investors about the investment decision in the respected company. However, the analyst team won't be liable for any wrong decision by the investor.
 
-**[NOTE: The Financial Model and the Equity Report is not allowed to use for commercial purpose]**
+**[NOTE: The Financial Model and the Equity Report are not allowed to be used for commercial purposes.]**
